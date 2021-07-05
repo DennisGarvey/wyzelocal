@@ -1,1 +1,4 @@
 venv/
+*.tar
+*.env
+.vscode/
